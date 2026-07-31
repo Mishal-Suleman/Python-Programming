@@ -1,0 +1,54 @@
+[
+    {
+        "Patient Name": "Sarah",
+        "Age": "43",
+        "Gender": "F",
+        "Insurance": "blue sooner",
+        "ICD-10 Code": "I10",
+        "Diagnosis": "Hypertension",
+        "CPT Code": "85025",
+        "Procedure": "Complete Blood Count (CBC)",
+        "Amount (Rs.)": 400,
+        "Claim Status": "Paid",
+        "Date": "2026-05-06"
+    },
+    {
+        "Patient Name": "Ali Raza",
+        "Age": "39",
+        "Gender": "M",
+        "Insurance": "blue sooner",
+        "ICD-10 Code": "N39.0",
+        "Diagnosis": "Urinary Tract Infection",
+        "CPT Code": "99283",
+        "Procedure": "Emergency Visit - Moderate",
+        "Amount (Rs.)": 2500,
+        "Claim Status": "Pending",
+        "Date": "2026-05-06"
+    },
+    {
+        "Patient Name": "Qasim Habib",
+        "Age": "47",
+        "Gender": "M",
+        "Insurance": "grey broom",
+        "ICD-10 Code": "J06.9",
+        "Diagnosis": "Upper Respiratory Infection",
+        "CPT Code": "71046",
+        "Procedure": "Chest X-Ray",
+        "Amount (Rs.)": 1200,
+        "Claim Status": "Paid",
+        "Date": "2026-05-06"
+    },
+    {
+        "Patient Name": "Ijaz Usama",
+        "Age": "52",
+        "Gender": "M",
+        "Insurance": "blue sooner",
+        "ICD-10 Code": "Z00.00",
+        "Diagnosis": "General Health Checkup",
+        "CPT Code": "99211",
+        "Procedure": "Office Visit - Established Patient",
+        "Amount (Rs.)": 300,
+        "Claim Status": "Pending",
+        "Date": "2026-05-06"
+    }
+]
